@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**0724654276/0724654276** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m @George kamakia :man:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ABOUT ME :bowtie:
+I am a focused and detail-oriented full stack Web developer :computer: and a cloud practitioner :cloud:, creating innovative solutions to unusual and difficult problems. Reliable, efficient, and guarantees that all jobs will be completed well on time.
+
+My Frameworks
+  -Django
+  -Flask
+  -Angular
+
+
+Languages
+  -Python
+  -Typescript
+  -Shell script
+  -SQL
+
+
+Other Skills & Technologies
+  -RestAPI
+  -FastAPI
+  -Linux
+  -AWS
+
+📫 How to reach me: georgekamakia@gmail.com
