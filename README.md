@@ -20,7 +20,6 @@ Languages
 
 Other Skills & Technologies
   -RestAPI
-  -FastAPI
   -Linux
   -AWS
 
