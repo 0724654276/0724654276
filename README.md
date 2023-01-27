@@ -1,5 +1,5 @@
 
-Hi, I’m @George kamakia :man:
+Hi, I’m George kamakia :man:
 
 
 ABOUT ME :bowtie:
